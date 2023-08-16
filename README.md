@@ -11,7 +11,8 @@
 - 🔭 I’m currently working on **React and Javascript** 
 - 🌱 I’m currently learning **Full Stack Web Development** 
 - 👯 I’m looking to collaborate on **Open Source Contributions** 
-- 💬 Ask me about **Python and MERN** 
+- 💬 Ask me about **Python and MERN**
+- ♟️ I play **Chess** more often
 - 📫 Reach me at **adarshguptaa.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
