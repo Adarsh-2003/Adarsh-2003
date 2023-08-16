@@ -15,8 +15,10 @@
 - 🌱 I’m currently learning **Full Stack Web Development** 
 - 👯 I’m looking to collaborate on **Open Source Contributions** 
 - 💬 Ask me about **Python, MERN or debugging a code**
-- ♟️ I play **Chess** more often
 - 📫 Reach me at **adarshguptaa.tech@gmail.com**
+- ♟️ I play **Chess** more often
+- 🗒️ Get my <a href="https://drive.google.com/file/d/1Kkp1ma6YPkhEhFiZ0TEY11MqS1p9Tyyr/view?usp=sharing" target="_blank">**Resume**</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
