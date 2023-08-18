@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **React and Javascript** 
+- 🔭 I’m currently working on **Java** 
 - 🌱 I’m currently learning **Full Stack Web Development** 
 - 👯 I’m looking to collaborate on **Open Source Contributions** 
 - 💬 Ask me about **Python, MERN or debugging a code**
