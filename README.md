@@ -11,8 +11,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Backend development** 
-- 🌱 I’m currently learning **Java & DSA** 
+
+- 🌱 I’m currently learning **Java & DSA**
+- 🔭 I’m currently working on **Web Development & Data Science** 
 - 👯 I’m looking to collaborate on **Open Source Contributions** 
 - 💬 Ask me about **Python, Java or debugging a code**
 - 📫 Reach me at **adarshguptaa.tech@gmail.com**
