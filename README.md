@@ -119,21 +119,10 @@
     />
   </a>
     <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
       width="40"
       height="40"
     />
@@ -195,7 +184,7 @@
       height="40"
     />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img
       src="https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png"
       alt="numpy"
@@ -203,7 +192,7 @@
       height="40"
     />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img
       src="https://image.pngaaa.com/242/4152242-middle.png"
       alt="matplotlib"
