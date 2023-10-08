@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Web Development & Data Science** 
 - 👯 I’m looking to collaborate on **Open Source Contributions** 
 - 💬 Ask me about **Python, Java or debugging a code**
-- 📫 Reach me at **adarshguptaa.tech@gmail.com**
+- 📫 Reach me at **adarshguptaa.dev@gmail.com**
 - ♟️ I play **Chess** more often
 - 🗒️ Get my <a href="https://drive.google.com/file/d/1Kkp1ma6YPkhEhFiZ0TEY11MqS1p9Tyyr/view?usp=sharing" target="_blank">**Resume**</a>
 
