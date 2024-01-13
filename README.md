@@ -31,7 +31,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/adarshg52146094" target="blank"
+  <a href="https://twitter.com/adarshgupta_dev" target="blank"
     >
     <img
       align="center"
