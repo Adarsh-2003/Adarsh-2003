@@ -68,8 +68,7 @@
 </p>
 
 <p>
-  &nbsp;<img
-    align="center"
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-2003&theme=great-gatsby&hide_border=false"
     alt="adarsh-2003"
   />
