@@ -61,6 +61,14 @@
 
 <p>
   <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-2003&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="adarsh-2003"
+  />
+</p>
+
+<p>
+  <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=Adarsh-2003&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true"
     alt="adarsh-2003"
@@ -70,14 +78,6 @@
 <p>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-2003&theme=great-gatsby&hide_border=false"
-    alt="adarsh-2003"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-2003&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="adarsh-2003"
   />
 </p>
