@@ -17,7 +17,7 @@
 - 💬 Ask me about **Python, Java or debugging a code**
 - 📫 Reach me at **adarshgupta.contact@gmail.com**
 - ♟️ I play **Chess** more often
-- 🗒️ Get my <a href="https://drive.google.com/file/d/1YvaobpFD-IEcCtXFEiQPfcFlKYySC-QD/view?usp=sharing" target="_blank">**Resume**</a>
+- 🗒️ Get my <a href="https://drive.google.com/file/d/1TxRCyGmcpRIlyfLz-kbwx0GC2stqhc0C/view?usp=sharing" target="_blank">**Resume**</a>
 
 
 ## 🌐 Connect with me :
